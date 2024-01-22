@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/746861962.svg)](https://zenodo.org/doi/10.5281/zenodo.10553129)
+
 # yan-etal\_2024\_james
 
 **Ensemble-based Spatially Distributed CLM5 Hydrological Parameter Estimation for the Continental United States**
