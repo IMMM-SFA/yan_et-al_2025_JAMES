@@ -43,7 +43,7 @@ Clone the CLM5 repository to set up the CLM5 model, you will need to download th
 
 ## Reproduce My Figures
 | Figure Numbers | Script Name | Description | Figure |
-|:--------------:|:-----------:|:-----------:|:------:|.png
+|:--------------:|:-----------:|:-----------:|:------:|
 | 3  | Figure_3.m  | Describe the regional mean daily FDC | <a href="./Fig 1.jpg"><img width="100" src="./Fig 1.jpg"/></a> |
 | 4  | Figure_4.m  | Describe the relative bias using 3 regionalization methods | <a href="./Fig 2.png"><img width="100" src="./Fig 2.png"/></a> |
 | 5  | Figure_5.m  | Describe the Qmean PDF of the behavioral parameter for 7 sites | <a href="./Fig 3.png"><img width="100" src="./Fig 3.png"/></a> |
