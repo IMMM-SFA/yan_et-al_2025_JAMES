@@ -46,15 +46,17 @@ Clone the CLM5 repository to set up the CLM5 model, you will need to download th
 ## Reproduce My Figures
 | Figure Numbers | Script Name | Description | Figure |
 |:--------------:|:-----------:|:-----------:|:------:|
-| 3  | Figure_3.m  | Describe the regional mean daily FDC | <a href="./Fig 1.jpg"><img width="100" src="./Fig 1.jpg"/></a> |
-| 4  | Figure_4.m  | Describe the relative bias using 3 regionalization methods | <a href="./Fig 2.png"><img width="100" src="./Fig 2.png"/></a> |
-| 5  | Figure_5.m  | Describe the Qmean PDF of the behavioral parameter for 7 sites | <a href="./Fig 3.png"><img width="100" src="./Fig 3.png"/></a> |
-| 6  | Figure_6.m  | Describe the default and behavior parameters over the CONUS | <a href="./Fig 4.png"><img width="100" src="./Fig 4.png"/></a> |
-| 7  | Figure_7.m  | Describe the behavioral parameters for 7 sites | <a href="./Fig 5.png"><img width="100" src="./Fig 5.png"/></a> |
-| 8  | Figure_8.m  | Describe the 15 behavioral parameters for one site | <a href="./Fig 6.png"><img width="100" src="./Fig 6.png"/></a> |
-| 9  | Figure_9.m  | Describe the ensemble daily FDC for one site using one, two, three constraints | <a href="./Fig 7.png"><img width="100" src="./Fig 7.png"/></a> |
-| 10 | Figure_10.m | Describe the Qmean prediction over the CONUS | <a href="./Fig 8.png"><img width="100" src="./Fig 8.png"/></a> |
-| 11 | Figure_11.m | Describe the Q10 prediction over the CONUS | <a href="./Fig 9.png"><img width="100" src="./Fig 9.png"/></a> |
-| 12 | Figure_12.m | Describe the Q90 prediction over the CONUS | <a href="./Fig 10.png"><img width="100" src="./Fig 10.png"/></a> |
+| 1  |   | Regionalization strategy | <a href="./Fig 1.jpg"><img width="100" src="./Fig 1.jpg"/></a> |
+| 2  |   | CAMELS basin and grid cell clustering | <a href="./Fig 2.png"><img width="100" src="./Fig 2.png"/></a> |
+| 3  | Figure_3.m  | Describe the regional mean daily FDC | <a href="./Fig 3.png"><img width="100" src="./Fig 3.png"/></a> |
+| 4  | Figure_4.m  | Describe the relative bias using 3 regionalization methods | <a href="./Fig 4.png"><img width="100" src="./Fig 4.png"/></a> |
+| 5  | Figure_5.m  | Describe the Qmean PDF of the behavioral parameter for 7 sites | <a href="./Fig 5.png"><img width="100" src="./Fig 5.png"/></a> |
+| 6  | Figure_6.m  | Describe the default and behavior parameters over the CONUS | <a href="./Fig 6.png"><img width="100" src="./Fig 6.png"/></a> |
+| 7  | Figure_7.m  | Describe the behavioral parameters for 7 sites | <a href="./Fig 7.png"><img width="100" src="./Fig 7.png"/></a> |
+| 8  | figure\_8\_plot\_james\_params.py, figure\_8\_plot\_parallel.py  | Describe the 15 behavioral parameters for one site | <a href="./Fig 8.png"><img width="100" src="./Fig 8.png"/></a> |
+| 9  | Figure_9.m  | Describe the ensemble daily FDC for one site using one, two, three constraints | <a href="./Fig 9.png"><img width="100" src="./Fig 9.png"/></a> |
+| 10 | Figure_10.m | Describe the Qmean prediction over the CONUS | <a href="./Fig 10.png"><img width="100" src="./Fig 10.png"/></a> |
+| 11 | Figure_11.m | Describe the Q10 prediction over the CONUS | <a href="./Fig 11.png"><img width="100" src="./Fig 11.png"/></a> |
+| 12 | Figure_12.m | Describe the Q90 prediction over the CONUS | <a href="./Fig 12.png"><img width="100" src="./Fig 12.png"/></a> |
 | S1 | Figure_S1.m | Describe the Q10 PDF of the behavioral parameter for 7 sites | <a href="./Fig S1.png"><img width="100" src="./Fig S1.png"/></a> |
 | S2 | Figure_S2.m | Describe the Q90 PDF of the behavioral parameter for 7 sites |  <a href="./Fig S2.png"><img width="100" src="./Fig S2.png"/></a> |
