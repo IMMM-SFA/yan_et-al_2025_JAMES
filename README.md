@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/746861962.svg)](https://zenodo.org/doi/10.5281/zenodo.10553129)
 
-# yan-etal\_2024\_james
+# yan-etal\_2025\_james
 
 **Ensemble-based Spatially Distributed CLM5 Hydrological Parameter Estimation for the Continental United States**
 
@@ -18,7 +18,7 @@ Hongxiang Yan<sup>1*</sup>, Ning Sun<sup>1</sup>, Hisham Eldardiry<sup>1</sup>, 
 One of the major challenges in large-domain hydrological modeling efforts lies in the estimation of spatially distributed hydrological parameters while simultaneously accounting for their associated uncertainties. Addressing this challenge is particularly difficult in ungauged locations. With growing societal demands for large-scale streamflow projections to inform water resource management and long-term planning, evaluating and constraining hydrological parameter uncertainty is increasingly vital. This study introduces a hybrid regionalization approach to enhance hydrological predictions of the Community Land Model version 5 (CLM5) across the Continental United States (CONUS), with a total of 50,629 1/8° grid cells. This hybrid method combines the strengths of two existing techniques: parameter regionalization and streamflow signature regionalization. It identifies ensemble behavioral parameters for each 1/8° grid cell across the CONUS domain, tailored to three distinct streamflow signatures focused on low flows, high flows, and annual water balance. Evaluating this hybrid method for 464 CAMELS (Catchment Attributes and Meteorology for Large-sample Studies) basins demonstrates a significant improvement in CLM5 hydrological predictions, even in challenging arid regions. In CONUS applications, the derived spatially distributed parameter sets capture both spatial continuity and variation of parameters, highlighting their heterogeneous nature within specific regions. Overall, this hybrid regionalization approach offers a promising solution to the complex task of improving hydrological modeling over large domains for important hydrological applications.
 
 ## Journal Reference
-Yan, H., Sun, N., Eldardiry, H., Thurber, T., Reed, P., Kennedy, D., Swenson, S., and Rice, J. (2024). Ensemble-based Spatially Distributed CLM5 Hydrological Parameter Estimation for the Continental United States. Submitted to Journal of Advances in Modeling Earth Systems – January 2024.
+Yan, H., Sun, N., Eldardiry, H., Thurber, T., Reed, P., Kennedy, D., Swenson, S., & Rice, J. (2025). Ensemble‐Based Spatially Distributed CLM5 hydrological Parameter Estimation for the Continental United States. Journal of Advances in Modeling Earth Systems, 17(2). https://doi.org/10.1029/2024ms004227
 
 ## Data Reference
 ### Input Data
